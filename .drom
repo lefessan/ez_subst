@@ -23,8 +23,8 @@ caebd09cb1512e6ab6e25951a0fa0f9d sphinx/conf.py
 cf3c41f0ffb808c3006acbb1bf13df66 sphinx/index.rst
 f1c0e679da676ca5a758fdad8f88d2a9 sphinx/install.rst
 3959e573e95a29995c5c156713703865 sphinx/license.rst
-d9df87bb2fdd7fd8d78810976d8e4f76 src/ez_subst/dune
-cc7b8caaef0d1b949f34b1ab53c44d4e src/ez_subst/index.mld
+5f838f8355f44b50053cfcb38ab4e1d9 src/ez_subst/dune
+74ea24489ec934d647a93b4012de2131 src/ez_subst/index.mld
 4f052e676d6dfb5facd05087e036e7bd src/ez_subst/main.ml
 fab8224b1866cef1103bca89068b73fe src/ez_subst/version.ml
 9fc2bcf43820dde4ca9274296642077d test/expect-tests/dune

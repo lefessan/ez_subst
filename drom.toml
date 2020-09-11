@@ -53,4 +53,4 @@ dir = "src/ez_subst"
 gen-version = "version.ml"
 kind = "library"
 name = "ez_subst"
-
+pack-modules = false

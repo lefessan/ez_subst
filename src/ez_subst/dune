@@ -1,6 +1,7 @@
 (library
  (name ez_subst)
  (public_name ez_subst)
+ (wrapped false)
  (libraries )
  
 )
